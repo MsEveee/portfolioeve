@@ -16,7 +16,7 @@ const Navbar = () => {
     { to: "skills", label: "Skills" },
     { to: "projects", label: "Projects" },
     { to: "testimonials", label: "Testimonials" },
-    { to: "contact", label: "Contact Us" },
+    { to: "contact", label: "Contact" },
   ];
 
   useEffect(() => {

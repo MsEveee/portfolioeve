@@ -4,8 +4,8 @@ import java from "../assets/SVG/java.svg"
 
 const Skills = () => {
   return (
-    <div className="bg-[#f9f8ff]">
-      <div className="text-center text-lg font-bold">
+    <div className="bg-[#f9f8ff] py-16">
+      <div className="text-center text-2xl font-semibold">
         <h1>Skills</h1>
       </div>
 
