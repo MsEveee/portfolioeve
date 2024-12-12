@@ -1,5 +1,5 @@
 import webIcon from "../assets/SVG/webIcon.svg";
-import webIcon2 from "../assets/SVG/webIcon2.svg";
+import WebIcon2 from "../assets/SVG/WebIcon2.svg";
 
 const About = () => {
   return (
@@ -35,7 +35,7 @@ const About = () => {
         
         <div className="bg-white shadow-md rounded-lg border border-gray-200 p-6 max-w-xl w-full sm:w-60 md:w-96 transform hover:scale-105 hover:shadow-2xl duration-500 transition-all">
           <div className="flex justify-center">
-            <img src={webIcon2} alt="" className="h-56" />
+            <img src={WebIcon2} alt="" className="h-56" />
           </div>
           <h2 className="font-bold text-lg text-center mt-4">Customer Service Enthusiast</h2>
           <p className="text-center mt-2">
