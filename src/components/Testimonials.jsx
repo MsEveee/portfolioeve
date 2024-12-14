@@ -14,25 +14,33 @@ const Testimonials = () => {
       image: jenny,
       name: "Jennifer Kwakwa-Sarpong",
       description:
-        "In full-stack development, expertise is key, and that's what we found with Hudson. Attention to detail, clear communication, and dedication to meeting project deadlines made the collaboration seamless. Couldn't be happier with the final product. If looking for a talented and reliable web developer, Hudson is the one to choose.",
+        "Excellent work on designing the Bidigreen Ghana Limited website! Your attention to detail, willingness to listen, and openness to feedback truly set you apart.Despite numerous changes, you remained patient and focused, delivering a flawless final product.Your dedication and professionalism are commendable.Thank you for a job perfectly done!",
     },
     {
       image: michael,
       name: "Michael Hammond",
-      description:
-        "In full-stack development, expertise is key, and that's what we found with Hudson. Attention to detail, clear communication, and dedication to meeting project deadlines made the collaboration seamless. Couldn't be happier with the final product. If looking for a talented and reliable web developer, Hudson is the one to choose.",
+      description: "Evelyn Yaa Biadoo is a standout talent I had the privilege of teaching during Grow Web Development - Cohort 2. Her remarkable work ethic, resilience, and commitment to growth were evident in her ability to tackle complex concepts and consistently deliver exceptional work. Evelyn approaches challenges with positivity and determination, striving for mastery while seeking opportunities to deepen her understanding. Her persistence and passion for growth make her an invaluable asset to any team or project."
+        
     },
+
+
     {
-      image: yvonne,
-      name: "Yvonne Charcoal",
+      image: jenny,
+      name: "Jennifer Kwakwa-Sarpong",
       description:
-        "In full-stack development, expertise is key, and that's what we found with Hudson. Attention to detail, clear communication, and dedication to meeting project deadlines made the collaboration seamless. Couldn't be happier with the final product. If looking for a talented and reliable web developer, Hudson is the one to choose.",
+        "Excellent work on designing the Bidigreen Ghana Limited website! Your attention to detail, willingness to listen, and openness to feedback truly set you apart.Despite numerous changes, you remained patient and focused, delivering a flawless final product.Your dedication and professionalism are commendable.Thank you for a job perfectly done!",
     },
+    // {
+    //   image: yvonne,
+    //   name: "Yvonne Charcoal",
+    //   description:
+    //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex eacommodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    // },
     {
       image: david,
       name: "David Arhin",
-      description:
-        "In full-stack development, expertise is key, and that's what we found with Hudson. Attention to detail, clear communication, and dedication to meeting project deadlines made the collaboration seamless. Couldn't be happier with the final product. If looking for a talented and reliable web developer, Hudson is the one to choose.",
+      description:"Evelyn Yaa Biadoo was a top-performing student in the second cohort of the React class organized by Ideation Axis. Her enthusiasm, mastery of React, and commitment to excellence were evident in her high-quality work and proactive attitude. Evelyn stood out as a collaborative team player, always ready to assist others and engage in meaningful discussions. Her talent and dedication make her a valuable asset in web development projects, and I wholeheartedly recommend her for opportunities that require expertise in React and a strong work ethic."
+
     },
   ];
 

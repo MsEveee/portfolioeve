@@ -1,6 +1,7 @@
-import reactjs from "../assets/SVG/reactjs.svg"
-import tailwind from "../assets/SVG/tailwind.svg"
-import java from "../assets/SVG/java.svg"
+import reactjs from "../assets/SVG/reactjs.svg";
+import tailwind from "../assets/SVG/tailwind.svg";
+import java from "../assets/SVG/java.svg";
+// import python from "../assets/images/python.png";
 
 const Skills = () => {
   return (
@@ -13,6 +14,7 @@ const Skills = () => {
         <img src={reactjs} alt="reactjs" />
         <img src={tailwind} alt="tailwind" />
         <img src={java} alt="javascript" />
+        {/* <img src={python} alt="" width="7%" /> */}
       </div>
     </div>
   );
